@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(55, 54, 54);
+}
+.fondo{
+    background-image: url("TheLastOfUs.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+img{
+    height: 70px;
+}
+.fondomd{
+    height: 300px;
+}
+.col1{
+    height: 230px;
+    width: 250px;
+}
+.col2{
+    height: 230px;
+    width: 160px;
+}
+
